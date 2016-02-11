@@ -1,0 +1,39 @@
+
+/* to look at : https://css-tricks.com/transparent-borders-with-background-clip/ */
+
+
+/* Source of full page background : https://css-tricks.com/perfect-full-page-background-image/ */
+
+#mainContentDiv {
+    position: relative;
+    width: 85%;
+    margin: 50px auto;
+    padding: 20px;
+    background: white;
+    opacity: 0.8;
+    -moz-box-shadow: 0 0 20px black;
+    -webkit-box-shadow: 0 0 20px black;
+    box-shadow: 0 0 20px black;
+}
+
+img.background {
+    /* Set rules to fill background */
+    min-height: 100%;
+    min-width: 1024px;
+    /* Set up proportionate scaling */
+    width: 100%;
+    height: auto;
+    /* Set up positioning */
+    position: fixed;
+    top: 0;
+    left: 0;
+}
+
+@media screen and (max-width: 1024px) {
+    /* Specific to this particular image */
+    img.background {
+        left: 50%;
+        margin-left: -512px;
+        /* 50% */
+    }
+}

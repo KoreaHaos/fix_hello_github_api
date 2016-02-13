@@ -63,3 +63,11 @@ https://c9.io/koreahaos
 https://ide.c9.io/koreahaos/fix_hello_github_api
 http://stackoverflow.com/questions/10863658/load-image-with-jquery-and-append-it-to-the-dom
 chrome://newtab/
+
+https://fix-hello-github-api-koreahaos.c9users.io/index.html
+https://fix-hello-github-api-koreahaos.c9users.io/pgs/haos_github_api_example.html#
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=css%20no%20style%20pointer%20links&oq=css%20no%20style%20pointer%20links&aqs=chrome..69i57.17183j0j8
+https://www.google.com/search?sourceid=chrome-psyapi2&ion=1&espv=2&ie=UTF-8&q=css%20cursor%20on%20hover%20defualt&oq=css%20cursor%20on%20hover%20defualt&aqs=chrome..69i57.13134j0j4
+http://www.w3schools.com/cssref/pr_class_cursor.asp
+https://css-tricks.com/almanac/properties/c/cursor/
+http://www.echoecho.com/csscursors.htm

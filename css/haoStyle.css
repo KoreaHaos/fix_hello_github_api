@@ -207,9 +207,8 @@ img.fullpage_background_image {
 #page_contents {
     position: relative;
     
-    width: 85%;
-    margin: 50px auto;
-    padding: 20px;
+    width: 100% 100%;
+    padding: 5px;
     background: white;
     -moz-box-shadow: 0 0 20px black;
     -webkit-box-shadow: 0 0 20px black;
